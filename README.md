@@ -1,5 +1,5 @@
 # Verve
-- Live Project Available <a href="http://itsjigyasu.me/verve/">here</a>.
+- Live Project Available <a href="http://vedantkhairnar.ml/verve/">here</a>.
 
 
 <div align="center">
